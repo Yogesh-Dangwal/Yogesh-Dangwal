@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently working on sharpening my Data Structures & Algorithms skills 🚀<br><br>👯 I’m looking to collaborate on open-source projects, beginner-friendly Java projects, and DSA problem discussions<br><br>🤝 I’m looking for help with system Design basics, backend development, and writing cleaner, optimized code<br><br>🌱 I’m currently learning Advanced DSA, problem-solving patterns, and backend development with Java<br><br>💬 Ask me about : LeetCode problems, arrays, recursion, and dynamic programming etc.<br><br>⚡ Fun fact : I enjoy turning coffee ☕ into code and green GitHub contribution squares 🟩
 
 
