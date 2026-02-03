@@ -1,7 +1,7 @@
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on sharpening my Data Structures & Algorithms skills 🚀<br><br>👯 I’m looking to collaborate on open-source projects, beginner-friendly Java projects, and DSA problem discussions<br><br>🤝 I’m looking for help with system Design basics, backend development, and writing cleaner, optimized code<br><br>🌱 I’m currently learning Advanced DSA, problem-solving patterns, and backend development with Java<br><br>💬 Ask me about : LeetCode problems, arrays, recursion, and dynamic programming etc.<br><br>⚡ Fun fact : I enjoy turning coffee ☕ into code and green GitHub contribution squares 🟩
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toxic.__.yash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-dangwal-850815285) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxic_yash_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshdangwal123@gmail.com) 
