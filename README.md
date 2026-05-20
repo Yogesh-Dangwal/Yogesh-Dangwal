@@ -17,11 +17,7 @@
 <br><br>
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-dangwal&" alt="Yogesh-Dangwal" /></p>
-
-![](https://github-readme-stats.vercel.app/api?username=Yogesh-Dangwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yogesh-Dangwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Dangwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogesh-Dangwal)](https://git.io/streak-stats)
 <br><br>
 
 ### ✍️ Random Dev Quote
