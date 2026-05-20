@@ -8,7 +8,7 @@
 # 🌐 Socials:
 <a href="https://linkedin.com/in/yogesh-dangwal-850815285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh dangwal" height="30" width="40" /></a>
 <a href="https://instagram.com/toxic.__.yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh dangwal" height="30" width="40" /></a>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxic_yash_)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshdangwal123@gmail.com)
+# [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxic_yash_)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshdangwal123@gmail.com)
 <br><br>
 
 # 💻 Tech Stack:
