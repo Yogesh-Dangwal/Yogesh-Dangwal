@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Yogesh Dangwal</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-dangwal&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-dangwal" /> </p>
+
 # 💫 About Me:
 <img align="right" alt="Coding" width="410" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 🔭 I’m currently working on sharpening my Data Structures & Algorithms skills 🚀<br><br> 👯 I’m looking to collaborate on open-source projects, beginner-friendly Java projects, and DSA problem discussions <br><br>🤝 I’m looking for help with system Design basics, backend development, and writing cleaner, optimized code<br><br>🌱 I’m currently learning Advanced DSA, problem-solving patterns, and backend development with Java<br><br>💬 Ask me about : LeetCode problems, arrays, recursion, and dynamic programming etc.<br><br>⚡ Fun fact : I enjoy turning coffee ☕ into code and green GitHub contribution squares 🟩
